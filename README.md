@@ -1,1 +1,1 @@
-# human-data-platform
+# Human-data-platform
